@@ -18,5 +18,5 @@
 </div>
 
 <div align='center'>
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/Silentely/Silentely/main/pusheencode.gif" /> 
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/DixCouleur/DixCouleur/main/pusheencode.gif" /> 
 </div>
